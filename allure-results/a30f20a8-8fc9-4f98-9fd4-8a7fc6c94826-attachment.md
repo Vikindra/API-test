@@ -1,0 +1,82 @@
+# Page snapshot
+
+```yaml
+- navigation:
+  - link "Automation Automation Practice":
+    - /url: ""
+    - heading "Automation" [level=3]
+    - paragraph: Automation Practice
+  - list:
+    - listitem:
+      - button " HOME"
+    - listitem
+    - listitem:
+      - button " ORDERS"
+    - listitem:
+      - button " Cart 1"
+    - listitem:
+      - button "Sign Out"
+- text: "ZARA COAT 3 $ 31500 Quantity: 1"
+- list:
+  - listitem: Adidas Originals
+- text: Payment Method Credit Card Paypal SEPA Invoice Personal Information Credit Card Number
+- textbox: 4542 9931 9292 2293
+- text: Expiry Date
+- combobox:
+  - option "01" [selected]
+  - option "02"
+  - option "03"
+  - option "04"
+  - option "05"
+  - option "06"
+  - option "07"
+  - option "08"
+  - option "09"
+  - option "10"
+  - option "11"
+  - option "12"
+- combobox:
+  - option "01"
+  - option "02"
+  - option "03"
+  - option "04"
+  - option "05"
+  - option "06"
+  - option "07"
+  - option "08"
+  - option "09"
+  - option "10"
+  - option "11"
+  - option "12"
+  - option "13"
+  - option "14"
+  - option "15"
+  - option "16" [selected]
+  - option "17"
+  - option "18"
+  - option "19"
+  - option "20"
+  - option "21"
+  - option "22"
+  - option "23"
+  - option "24"
+  - option "25"
+  - option "26"
+  - option "27"
+  - option "28"
+  - option "29"
+  - option "30"
+  - option "31"
+- text: CVV Code ?
+- textbox
+- text: Name on Card
+- textbox
+- text: Apply Coupon
+- textbox
+- button "Apply Coupon"
+- text: Shipping Information reddy27@gmail.com
+- textbox: reddy27@gmail.com
+- textbox "Select Country"
+- text: Place Order
+- alert "Product Added To Cart"
+```
